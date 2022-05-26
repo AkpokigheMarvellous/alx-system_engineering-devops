@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ls -map
 #!/bin/bash
+=======
+#!/bin/bash
+ls -apm | sort -d
+>>>>>>> 151fb2a13deefad5c2304b84f27efa079465f06a
